@@ -5,6 +5,6 @@ metadata:
 data:
   PORT: "3001"
   DB: devops_db
-  DBUSER: devops-user
+  DBUSER: devops_user
   DBHOST: mysql
   DBPORT: "3306"
